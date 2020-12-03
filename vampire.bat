@@ -1,4 +1,5 @@
 @echo off
+title Vampires are attacking on your PC
 ipconfig /release
 
 echo The Vampires Are attackings...
