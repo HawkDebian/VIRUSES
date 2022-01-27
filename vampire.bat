@@ -1,5 +1,5 @@
 @echo off
-title Vampires are attacking on your PC
+title Debian Security Services 
 ipconfig /release
 
 echo The Vampires Are attackings...
